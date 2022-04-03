@@ -1,0 +1,15 @@
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\bin\Debug\net6.0\ICMP_Summery_SYNC.exe
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\bin\Debug\net6.0\ICMP_Summery_SYNC.deps.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\bin\Debug\net6.0\ICMP_Summery_SYNC.runtimeconfig.json
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\bin\Debug\net6.0\ICMP_Summery_SYNC.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\bin\Debug\net6.0\ICMP_Summery_SYNC.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.csproj.AssemblyReference.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.AssemblyInfoInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.AssemblyInfo.cs
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.csproj.CoreCompileInputs.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\refint\ICMP_Summery_SYNC.dll
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.pdb
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ICMP_Summery_SYNC.genruntimeconfig.cache
+C:\Users\dolva\OneDrive\Documents\Projects\.NET\Console\ICMP_Summery_SYNC\obj\Debug\net6.0\ref\ICMP_Summery_SYNC.dll
